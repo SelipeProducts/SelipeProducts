@@ -1,0 +1,72 @@
+html{
+	font-family: calibri;
+	background-color: #708FA3;
+}
+h1{
+	text-align: center;
+}
+.nav{
+	position: relative;
+	float:center;
+	padding: 10px;
+	background-color: silver;
+}
+.nav td{
+	background-color: grey;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+#info{
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 20px;
+	background-color: grey;
+	padding: 20px;
+}
+#contact{
+	background-color: silver;
+	padding: 10px;
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 20px;
+	max-width: 30%;
+
+}
+#contact p{
+	position: relative;
+	bottom: 0px;
+	line-height: 1px;
+}
+#add{
+	background-color: silver;
+	position: relative;
+	float: right;
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 20px;
+	max-width: 30%;
+	min-width: 200px;
+	min-height: 800px;
+	bottom: 215px;
+	visibility: hidden;
+
+}
+#projectsearch{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	background-color: silver;
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 20px;
+	
+}
+#projects{
+	background-color: silver;
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 10px;
+	padding: 10px;
+}
