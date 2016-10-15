@@ -1,0 +1,65 @@
+html{
+	font-family: calibri;
+
+}
+h1{
+	text-align: center;
+}
+.underline{
+	text-decoration: underline;
+}
+.imgFloat{
+	float: right;
+}
+.width{
+	width: 1.5%;
+}
+#info{
+	background-color: silver;
+	border-radius: 5px;
+
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 15px;
+
+	padding: 20px;
+	
+}
+#contact{
+	background-color: silver;
+	border-radius: 5px;
+
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 10px;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 1px;
+
+	max-width: 30%;
+
+}
+#projectsearch{
+	background-color: silver;
+	border-radius: 5px;
+
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 20px;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+
+	
+}
+#projects{
+	background-color: silver;
+	border-radius: 5px;
+
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 10px;
+	padding: 10px;
+}
