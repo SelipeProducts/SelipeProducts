@@ -14,6 +14,9 @@ h1{
 .width{
 	width: 1.5%;
 }
+.width_wide{
+	width: 5%;
+}
 #info{
 	background-color: silver;
 	border-radius: 5px;
